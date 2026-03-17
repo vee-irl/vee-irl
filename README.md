@@ -1,5 +1,5 @@
 <div align=center> 
-<img width="666" height="300" alt="633db9cbafc5d8587f736a8338dd45ac-removebg-preview" src="https://github.com/user-attachments/assets/af86e730-cdd7-4315-b876-d1c52c09a354" />
+<img width="700" height="300" alt="633db9cbafc5d8587f736a8338dd45ac-removebg-preview" src="https://github.com/user-attachments/assets/af86e730-cdd7-4315-b876-d1c52c09a354" />
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Bold&pause=1000&color=37AB47&background=87E68F38&center=true&width=435&lines=I+bet+Dandy+couldn't+do+this!)](https://git.io/typing-svg)
 
