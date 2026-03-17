@@ -5,6 +5,6 @@
 
 
 
-<img width="500" height="500" alt="8cf622e70854cde2bbb91f5fcb2c8096-removebg-preview" src="https://github.com/user-attachments/assets/3aead0a2-ffa7-4876-aad8-83f970fbd7d4" />
+<img width="700" height="300" alt="8cf622e70854cde2bbb91f5fcb2c8096-removebg-preview" src="https://github.com/user-attachments/assets/3aead0a2-ffa7-4876-aad8-83f970fbd7d4" />
 
 
